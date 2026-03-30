@@ -32,5 +32,11 @@ It processes user queries about planets, moons, and space missions, and generate
 - Wikipedia API
 - Cloud Run
 
+## Project Presentation
+
+You can view the full project submission here:
+
+[Download PPT/PDF](zuha_jagirdar_apac.pdf)
+
 ## Author
 Zuha Jagirdar
